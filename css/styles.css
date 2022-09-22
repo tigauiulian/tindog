@@ -1,0 +1,27 @@
+#title{
+background-color: #ff4c68;
+
+ }
+
+ h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    color: white;
+    padding-left: 90px;
+    padding-top: 60px;
+
+  }
+
+  .container-fluid{
+padding-top: 50px;
+padding-left: 40px;
+padding-right: 40px;
+  }
+
+.butoane{
+
+padding-left: 100px;
+padding-top: 20px;
+}
